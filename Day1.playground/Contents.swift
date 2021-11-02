@@ -43,7 +43,7 @@ let reallyBig = 100_000_000
 
 let lowerScore = score - 2
 let higherScore = score + 10
-xlet doubleSore = score * 2
+let doubleSore = score * 2
 let squaredScore = score * score
 let halvedScore = score / 2
 
